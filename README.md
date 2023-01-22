@@ -2,6 +2,7 @@
  Clase Tarea Semana 1
  
  AGREGAR EN LA TERMINAL VSC: 
+ 
  -------------------------EJERCICIO 1---------------------
  node index_1.js para arrancar el ejercicio 1;
  
