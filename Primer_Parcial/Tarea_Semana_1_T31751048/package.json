@@ -1,0 +1,11 @@
+{
+  "name": "tarea_semana_1_t31751048",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_1.js, index_2.js, index_3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
